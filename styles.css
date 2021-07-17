@@ -1,0 +1,42 @@
+body {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+/* header */
+.image {
+  margin: 110px 380px 0;
+}
+
+/* section */
+.big-heading {
+  margin: 0 440px 10px;
+  font-size: 120px;
+  line-height: 140px;
+  font-weight: 400;
+}
+
+.section:hover>.error-text {
+  opacity: inherit;
+}
+
+.error-text {
+  opacity: 0;
+  transition: opacity .4s ease-in-out;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  margin: 0 440px;
+}
+
+/* footer */
+.go-back-link {
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: normal;
+}
+
+.footer {
+  margin: auto 440px 30px;
+}
