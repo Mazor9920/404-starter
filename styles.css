@@ -5,11 +5,13 @@ body {
 }
 
 /* header */
+
 .image {
   margin: 110px 380px 0;
 }
 
 /* section */
+
 .big-heading {
   margin: 0 440px 10px;
   font-size: 120px;
@@ -31,6 +33,7 @@ body {
 }
 
 /* footer */
+
 .go-back-link {
   font-size: 16px;
   line-height: 18px;
